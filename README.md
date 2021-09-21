@@ -3,7 +3,7 @@
 
 #### T-H Nguyen-Vo, Q. H. Trinh, L. Nguyen, P-U. Nguyen-Hoang, [S. Rahardja](http://www.susantorahardja.com/)*, [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
 
-![alt text](https://github.com/mldlproject/2022-i6mA-CNN/blob/main/i6mA_CNN_abs.svg)
+![alt text](https://github.com/mldlproject/2022-i6mA-CNN/blob/main/i6mA_CNN_abs0.svg)
 
 ## Motivation
 N6-methyladenine (6mA) is one of the widespread epigenetic modifications that commonly occur in DNA sequences of both eukaryotes and prokaryotes. At the N6-methyladenine sites, 
