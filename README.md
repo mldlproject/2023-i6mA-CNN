@@ -26,7 +26,7 @@ prediction tasks on non-standard sequence samples. Besides, comparative analysis
 Source code and data are available upon request. 
 
 ## Web-based Application
-[Click here](http://13.238.182.15:888/) (Being implemented)
+[Click here](http://3.26.67.253:7777/)
 
 ## Contact 
 [Go to contact information](https://homepages.ecs.vuw.ac.nz/~nguyenb5/contact.html)
