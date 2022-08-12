@@ -1,4 +1,4 @@
-# i6mA-CNN: Identifying DNA N6-Methyladenine Sites in Mice using CNN with Multiple Kernel Sizes
+# i6mA-CNN: Identifying DNA N6-Methyladenine Sites in Mouse Genomes using Fusion of Multiple Receptive Fields in CNN
 
 
 #### T-H Nguyen-Vo, Q. H. Trinh, L. Nguyen, P-U. Nguyen-Hoang, [S. Rahardja](http://www.susantorahardja.com/)*, [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
