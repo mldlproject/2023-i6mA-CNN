@@ -26,8 +26,8 @@ prediction tasks on non-standard sequence samples. Besides, comparative analysis
 Source code and data are available upon request. 
 
 ## Web-based Application
-Source 1: [Click here](http://14.231.244.182:5003/)
-Source 2: [Click here](http://103.130.219.193:8002/)
+- Source 1: [Click here](http://14.231.244.182:5003/)
+- Source 2: [Click here](http://103.130.219.193:8002/)
 
 
 ## Contact 
