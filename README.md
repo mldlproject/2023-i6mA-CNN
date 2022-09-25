@@ -28,7 +28,7 @@ Source code and data are available upon request.
 
 ## Web-based Application
 - Source 1: [Click here](http://14.231.244.182:5003/)
-- Source 2: [Click here](http://192.168.1.7:5003/)
+- Source 2: [Click here](http://124.197.54.240:5003/)
 
 
 ## Contact 
